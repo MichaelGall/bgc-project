@@ -13,3 +13,5 @@ My work included:
 - Views for Activity, Program Details
 - Chat implementation
 - All Data Models
+
+I recommend using Visual Studio to launch the project, built using ASP.NET CORE 2.1 & the MVC framework.
